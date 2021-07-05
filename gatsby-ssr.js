@@ -5,7 +5,7 @@ export function onRenderBody({ setPostBodyComponents }){
         <script
             key="added_plugin_tawk.to"
             type="text/javascript"
-            /* dangerouslySetInnerHTML={{
+            dangerouslySetInnerHTML={{
                 __html:`
                     var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
                     (function(){
@@ -17,7 +17,7 @@ export function onRenderBody({ setPostBodyComponents }){
                     s0.parentNode.insertBefore(s1,s0);
                     })();
                 `
-            }} */
+            }}
         />,
         <script key="fb_chat" id="fb_chat" type="text/javascript" />
     ])
