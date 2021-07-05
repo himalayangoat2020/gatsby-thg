@@ -1,5 +1,6 @@
 /** @jsx jsx */
-import { Box, Flex, Link, useColorMode, jsx } from "theme-ui"
+import { Box, Flex, Link, useColorMode, jsx } from "theme-ui";
+import logo from '../../../../public/logo.svg';
 
 const Footer = () => {
   const [colorMode, setColorMode] = useColorMode()
@@ -30,20 +31,20 @@ const Footer = () => {
           a: { color: `text` },
         }}
       >
-        <img width="30" height="30" src="https://img.lekoarts.de/gatsby/logo_w30.png" alt="LekoArts Logo" />
+        <img width="30" height="30" src="/half-logo.png" alt="THG Logo" />
         {` `}
         <Link
           aria-label="Link to traditional website"
           sx={{ ml: 2 }}
           href="https://thgaf.com/v1"
         >
-          The Himalayan
+          The Himalayan Goat Pvt. Ltd.
         </Link>
         
         {` `}
-        <Link aria-label="Link to traditional website" href="https://thgaf.com/v1">
+       {/*  <Link aria-label="Link to traditional website" href="https://thgaf.com/v1">
           Goat Pvt. Ltd.
-        </Link>        
+        </Link> */}        
       </Flex>
     </Box>
   )

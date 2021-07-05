@@ -1,0 +1,22 @@
+{
+	"name": "The Himalayan Goat - A digital studio based in Nepal",
+	"short_name": "THG",
+	"description": "The Himalayan Goat is a digital studio, available to help you and collaborate with you in every step of your digital journey. Contact us at platform of your choice @thgaf.np",
+	"start_url": "/",
+	"background_color": "#141821",
+	"theme_color": "#f6ad55",
+	"display": "standalone",
+	"icons": [
+		{
+			"src": "/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"cacheDigest": null
+}

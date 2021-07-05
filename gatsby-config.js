@@ -26,9 +26,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `The Himalayan Goat - A digital studio based in Nepal`,
+        short_name: `THG`,
+        description: `The Himalayan Goat is a digital studio, available to help you and collaborate with you in every step of your digital journey. Contact us at platform of your choice @thgaf.np`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
