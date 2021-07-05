@@ -9,13 +9,13 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // Of course you can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitle: `The Himalayan Goat - A digital studio based in Nepal`,
-    siteTitleAlt: `THGAF`,
+    siteTitle: `THGAF`,
+    siteTitleAlt: `The Himalayan Goat - A digital studio based in Nepal`,
     siteHeadline: `The Himalayan Goat - A digital studio based in Nepal`,
     siteUrl: `https://thgaf.com`,
     siteDescription: `The Himalayan Goat is a digital studio, available to help you and collaborate with you in every step of your digital journey. Contact us at platform of your choice @thgaf.np`,
     siteLanguage: `en`,
-    author: `@lekoarts_de`,
+    author: `@thgaf.np`,
   },
   plugins: [
     {
